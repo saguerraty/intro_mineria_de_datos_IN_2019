@@ -80,7 +80,7 @@ except:
 #%% [markdown]
 # 1.1. La estadística descriptivo nos entrega la posibilidad de entender cómo se distribuyen los datos, que no podría evaluar si no se realizan visualizaciones de los datos.
 # 
-# 1.2
+# 1.2 majo esta haciendo un cambio
 # 
 # 1.3
 # 
